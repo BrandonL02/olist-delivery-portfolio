@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Downloaded and processed project data
+data/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Local credentials
+.env
+.streamlit/secrets.toml
